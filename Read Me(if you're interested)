@@ -1,0 +1,8 @@
+简单写一下我的代码都在做什么
+uNet：原始uNet
+GAN：GAN with LiuNet
+GAN_uNet:把最原始的uNet放进GAN
+LiuNet：uNet with Attention,AttentionGate&Residual block
+newNet3:化简uNet
+uNet_with_attention:uNet+Spatial Attention
+uNet_with_residual:uNet+Residual Block
